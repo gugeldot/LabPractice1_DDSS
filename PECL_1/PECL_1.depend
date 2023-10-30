@@ -1,0 +1,464 @@
+# depslib dependency file v1.0
+1698354372 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"metodos.h"
+	"variables.h"
+	"reserva.h"
+	"colaReserva.h"
+	"pilaMesa.h"
+	"pedido.h"
+	"menu.h"
+
+1698434858 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\metodos.h
+	<string>
+	"reserva.h"
+	<stdlib.h>
+	<ctime>
+	"variables.h"
+	"mesa.h"
+	"pilaMesa.h"
+
+1698452191 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\metodos.cpp
+	<iostream>
+	<string.h>
+	"metodos.h"
+	"reserva.h"
+	"mesa.h"
+	"pedido.h"
+	"pilaMesa.h"
+	"nodoMesa.h"
+	"nodoPedido.h"
+	"nodoReserva.h"
+
+1698430543 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"metodos.h"
+	"variables.h"
+	"reserva.h"
+	"colaReserva.h"
+	"pilaMesa.h"
+	"pedido.h"
+	"menu.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\metodos.h
+	<string>
+	"reserva.h"
+	<stdlib.h>
+	<ctime>
+	"variables.h"
+	"mesa.h"
+	"pilaMesa.h"
+
+1698430543 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\metodos.cpp
+	<iostream>
+	<string.h>
+	"metodos.h"
+	"reserva.h"
+	"mesa.h"
+	"pedido.h"
+	"pilaMesa.h"
+	"nodoMesa.h"
+	"nodoPedido.h"
+	"nodoReserva.h"
+
+1698343591 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\reserva.cpp
+	<iostream>
+	"reserva.h"
+	"metodos.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\reserva.h
+	<string>
+
+1698430543 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\menu.cpp
+	"menu.h"
+	"reserva.h"
+	"colaReserva.h"
+	"colaPedido.h"
+	"pilaMesa.h"
+	"metodos.h"
+	"pedido.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\menu.h
+	<iostream>
+
+1698077798 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\cola.h
+	<iostream>
+	"nodo.h"
+
+1698078446 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\nodo.h
+	<iostream>
+
+1698080974 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\cola.cpp
+	"cola.h"
+
+1698086122 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\cola.cpp
+	"cola.h"
+
+1698086122 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\cola.h
+	<iostream>
+	"nodo.h"
+
+1698087268 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\nodo.h
+	<iostream>
+
+1698535931 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\menu.cpp
+	"menu.h"
+	"reserva.h"
+	"colaReserva.h"
+	"colaPedido.h"
+	"pilaMesa.h"
+	"metodos.h"
+	"pedido.h"
+
+1698338585 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\menu.h
+	<iostream>
+
+1698526061 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\metodos.cpp
+	<iostream>
+	<string.h>
+	"metodos.h"
+	"reserva.h"
+	"mesa.h"
+	"pedido.h"
+	"pilaMesa.h"
+	"nodoMesa.h"
+	"nodoPedido.h"
+	"nodoReserva.h"
+
+1698525751 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\metodos.h
+	<string>
+	"reserva.h"
+	<stdlib.h>
+	<ctime>
+	"variables.h"
+	"mesa.h"
+	"pilaMesa.h"
+
+1698338585 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\reserva.cpp
+	<iostream>
+	"reserva.h"
+	"metodos.h"
+
+1698503398 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\reserva.h
+	<string>
+
+1698353024 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"metodos.h"
+	"variables.h"
+	"reserva.h"
+	"colaReserva.h"
+	"pilaMesa.h"
+	"pedido.h"
+	"menu.h"
+
+1698338585 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\variables.h
+
+1698518421 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\colareserva.cpp
+	"colaReserva.h"
+	"variables.h"
+
+1698510272 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\colareserva.h
+	<iostream>
+	"reserva.h"
+	"nodoReserva.h"
+	"metodos.h"
+
+1698338585 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\nodoreserva.h
+	<iostream>
+	"reserva.h"
+
+1698514231 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\pilamesa.cpp
+	"pilaMesa.h"
+
+1698346569 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\pilamesa.h
+	"nodoMesa.h"
+	"metodos.h"
+	"variables.h"
+
+1698338585 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\nodomesa.h
+	<iostream>
+	"mesa.h"
+
+1698352299 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\mesa.h
+	<string>
+	"variables.h"
+	"reserva.h"
+
+1698343591 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\colareserva.cpp
+	"colaReserva.h"
+	"variables.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\colareserva.h
+	<iostream>
+	"reserva.h"
+	"nodoReserva.h"
+	"metodos.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\nodoreserva.h
+	<iostream>
+	"reserva.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\variables.h
+
+1698430543 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\mesa.h
+	<string>
+	"variables.h"
+	"reserva.h"
+
+1698430543 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\pilamesa.h
+	"nodoMesa.h"
+	"metodos.h"
+	"variables.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\nodomesa.h
+	<iostream>
+	"mesa.h"
+
+1698430543 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\pilamesa.cpp
+	"pilaMesa.h"
+
+1698345277 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\colareserva.cpp
+	"colaReserva.h"
+	"variables.h"
+
+1698345277 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\colareserva.h
+	<iostream>
+	"reserva.h"
+	"nodoReserva.h"
+	"metodos.h"
+
+1698447715 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\reserva.h
+	<string>
+
+1698345277 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\nodoreserva.h
+	<iostream>
+	"reserva.h"
+
+1698345277 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\variables.h
+
+1698354372 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\mesa.h
+	<string>
+	"variables.h"
+	"reserva.h"
+
+1698354372 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\pilamesa.h
+	"nodoMesa.h"
+	"metodos.h"
+	"variables.h"
+
+1698345277 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\nodomesa.h
+	<iostream>
+	"mesa.h"
+
+1698507482 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\menu.cpp
+	"menu.h"
+	"reserva.h"
+	"colaReserva.h"
+	"colaPedido.h"
+	"pilaMesa.h"
+	"metodos.h"
+	"pedido.h"
+
+1698345277 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\menu.h
+	<iostream>
+
+1698354372 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\pilamesa.cpp
+	"pilaMesa.h"
+
+1698345277 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\reserva.cpp
+	<iostream>
+	"reserva.h"
+	"metodos.h"
+
+1698508113 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\pedido.h
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698354372 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\pedido.cpp
+	"pedido.h"
+	<iostream>
+
+1698507828 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\colapedido.cpp
+	<iostream>
+	"colaPedido.h"
+
+1698507797 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\colapedido.h
+	<iostream>
+	"nodoPedido.h"
+	"pedido.h"
+
+1698345277 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\nodopedido.h
+	<iostream>
+	"pedido.h"
+
+1698525589 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\colapedido.cpp
+	<iostream>
+	"colaPedido.h"
+
+1698508343 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\colapedido.h
+	<iostream>
+	"nodoPedido.h"
+	"pedido.h"
+
+1698533508 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\nodopedido.h
+	<iostream>
+	"pedido.h"
+
+1698522577 c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\pedido.h
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698511074 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\pedido.cpp
+	"pedido.h"
+	<iostream>
+
+1698345277 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\pl1-eedd\pecl_1\mesa.cpp
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698338585 source:c:\users\gugeldot\data\!academic\programacion\git repos\pl1-eedd\pecl_1\mesa.cpp
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698430543 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\colapedido.cpp
+	<iostream>
+	"colaPedido.h"
+
+1698430543 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\colapedido.h
+	<iostream>
+	"nodoPedido.h"
+	"pedido.h"
+
+1698343591 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\nodopedido.h
+	<iostream>
+	"pedido.h"
+
+1698430543 c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\pedido.h
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698343591 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\mesa.cpp
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698430543 source:c:\users\gugel\data\notacademic\programacion\git repos\pl1-eedd\pecl_1\pedido.cpp
+	"pedido.h"
+	<iostream>
+
+1698508343 source:c:\users\gugeldot\desktop\pecl_1\colapedido.cpp
+	<iostream>
+	"colaPedido.h"
+
+1698508343 c:\users\gugeldot\desktop\pecl_1\colapedido.h
+	<iostream>
+	"nodoPedido.h"
+	"pedido.h"
+
+1698338585 c:\users\gugeldot\desktop\pecl_1\nodopedido.h
+	<iostream>
+	"pedido.h"
+
+1698508343 c:\users\gugeldot\desktop\pecl_1\pedido.h
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698352299 c:\users\gugeldot\desktop\pecl_1\mesa.h
+	<string>
+	"variables.h"
+	"reserva.h"
+
+1698338585 c:\users\gugeldot\desktop\pecl_1\variables.h
+
+1698503398 c:\users\gugeldot\desktop\pecl_1\reserva.h
+	<string>
+
+1698510288 source:c:\users\gugeldot\desktop\pecl_1\colareserva.cpp
+	"colaReserva.h"
+	"variables.h"
+
+1698510272 c:\users\gugeldot\desktop\pecl_1\colareserva.h
+	<iostream>
+	"reserva.h"
+	"nodoReserva.h"
+	"metodos.h"
+
+1698338585 c:\users\gugeldot\desktop\pecl_1\nodoreserva.h
+	<iostream>
+	"reserva.h"
+
+1698434124 c:\users\gugeldot\desktop\pecl_1\metodos.h
+	<string>
+	"reserva.h"
+	<stdlib.h>
+	<ctime>
+	"variables.h"
+	"mesa.h"
+	"pilaMesa.h"
+
+1698346569 c:\users\gugeldot\desktop\pecl_1\pilamesa.h
+	"nodoMesa.h"
+	"metodos.h"
+	"variables.h"
+
+1698338585 c:\users\gugeldot\desktop\pecl_1\nodomesa.h
+	<iostream>
+	"mesa.h"
+
+1698353024 source:c:\users\gugeldot\desktop\pecl_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"metodos.h"
+	"variables.h"
+	"reserva.h"
+	"colaReserva.h"
+	"pilaMesa.h"
+	"pedido.h"
+	"menu.h"
+
+1698338585 c:\users\gugeldot\desktop\pecl_1\menu.h
+	<iostream>
+
+1698338585 source:c:\users\gugeldot\desktop\pecl_1\mesa.cpp
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698511882 source:c:\users\gugeldot\desktop\pecl_1\metodos.cpp
+	<iostream>
+	<string.h>
+	"metodos.h"
+	"reserva.h"
+	"mesa.h"
+	"pedido.h"
+	"pilaMesa.h"
+	"nodoMesa.h"
+	"nodoPedido.h"
+	"nodoReserva.h"
+
+1698511074 source:c:\users\gugeldot\desktop\pecl_1\pedido.cpp
+	"pedido.h"
+	<iostream>
+
+1698347993 source:c:\users\gugeldot\desktop\pecl_1\pilamesa.cpp
+	"pilaMesa.h"
+
+1698338585 source:c:\users\gugeldot\desktop\pecl_1\reserva.cpp
+	<iostream>
+	"reserva.h"
+	"metodos.h"
+
