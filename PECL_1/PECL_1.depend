@@ -462,3 +462,116 @@
 	"reserva.h"
 	"metodos.h"
 
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\colapedido.cpp
+	<iostream>
+	"colaPedido.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\colapedido.h
+	<iostream>
+	"nodoPedido.h"
+	"pedido.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\nodopedido.h
+	<iostream>
+	"pedido.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\pedido.h
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\mesa.h
+	<string>
+	"variables.h"
+	"reserva.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\variables.h
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\reserva.h
+	<string>
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\colareserva.cpp
+	"colaReserva.h"
+	"variables.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\colareserva.h
+	<iostream>
+	"reserva.h"
+	"nodoReserva.h"
+	"metodos.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\nodoreserva.h
+	<iostream>
+	"reserva.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\metodos.h
+	<string>
+	"reserva.h"
+	<stdlib.h>
+	<ctime>
+	"variables.h"
+	"mesa.h"
+	"pilaMesa.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\pilamesa.h
+	"nodoMesa.h"
+	"metodos.h"
+	"variables.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\nodomesa.h
+	<iostream>
+	"mesa.h"
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"metodos.h"
+	"variables.h"
+	"reserva.h"
+	"colaReserva.h"
+	"pilaMesa.h"
+	"pedido.h"
+	"menu.h"
+
+1698663481 c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\menu.h
+	<iostream>
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\menu.cpp
+	"menu.h"
+	"reserva.h"
+	"colaReserva.h"
+	"colaPedido.h"
+	"pilaMesa.h"
+	"metodos.h"
+	"pedido.h"
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\mesa.cpp
+	<iostream>
+	"mesa.h"
+	"reserva.h"
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\metodos.cpp
+	<iostream>
+	<string.h>
+	"metodos.h"
+	"reserva.h"
+	"mesa.h"
+	"pedido.h"
+	"pilaMesa.h"
+	"nodoMesa.h"
+	"nodoPedido.h"
+	"nodoReserva.h"
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\pedido.cpp
+	"pedido.h"
+	<iostream>
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\pilamesa.cpp
+	"pilaMesa.h"
+
+1698663481 source:c:\users\david sanchez\desktop\uni\2ºcurso\semestre_3(gisi)\estructuras de datos\laboratorio\pecl´s\labpractice1_ddss\pecl_1\reserva.cpp
+	<iostream>
+	"reserva.h"
+	"metodos.h"
+
